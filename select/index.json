@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Start a War",
+  "base_artist": "Static-X",
+  "createdAt": "2026-02-15T16:24:08.808354Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/01_Start_a_War_The_National.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How to Start a War",
+      "artist": "Dream Evil",
+      "has_synced": true,
+      "path": "select/02_How_to_Start_a_War_Dream_Evil.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Brooke Fraser",
+      "has_synced": true,
+      "path": "select/03_Start_a_War_Brooke_Fraser.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Racoon",
+      "has_synced": true,
+      "path": "select/04_Start_a_War_Racoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Love Could Start a War",
+      "artist": "The Unlikely Candidates",
+      "has_synced": true,
+      "path": "select/05_Your_Love_Could_Start_a_War_The_Unlikely_Candidates.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Klergy feat. Valerie Broussard",
+      "has_synced": true,
+      "path": "select/06_Start_a_War_Klergy_feat._Valerie_Broussard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Klergy, Valerie Broussard",
+      "has_synced": true,
+      "path": "select/07_Start_a_War_Klergy,_Valerie_Broussard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Love Could Start A War",
+      "artist": "The Unlikely Candidates",
+      "has_synced": true,
+      "path": "select/08_Your_Love_Could_Start_A_War_The_Unlikely_Candidates.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Wanna Start a War",
+      "artist": "Fozzy",
+      "has_synced": true,
+      "path": "select/09_Do_You_Wanna_Start_a_War_Fozzy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Bobaflex",
+      "has_synced": true,
+      "path": "select/10_Start_a_War_Bobaflex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Sonic Syndicate",
+      "has_synced": false,
+      "path": "select/11_Start_a_War_Sonic_Syndicate.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Your Love Could Start a War",
+      "artist": "The Unlikely Candidates",
+      "has_synced": false,
+      "path": "select/12_Your_Love_Could_Start_a_War_The_Unlikely_Candidates.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let's Start A War...",
+      "artist": "The Exploited",
+      "has_synced": false,
+      "path": "select/13_Let's_Start_A_War..._The_Exploited.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Start A War (Said Maggie One Day)",
+      "artist": "The Exploited",
+      "has_synced": true,
+      "path": "select/14_Let's_Start_A_War_(Said_Maggie_One_Day)_The_Exploited.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Start A War",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/15_Start_A_War_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Start A War",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/16_Start_A_War_The_National.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Start a War",
+      "artist": "Static‐X",
+      "has_synced": true,
+      "path": "select/17_Start_a_War_Static‐X.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "How to Start a War",
+      "artist": "Simon Curtis",
+      "has_synced": true,
+      "path": "select/18_How_to_Start_a_War_Simon_Curtis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Let's Start a War",
+      "artist": "Master",
+      "has_synced": false,
+      "path": "select/19_Let's_Start_a_War_Master.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Melting On The Meadow (Start A People Outtake, 2003)",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/20_Melting_On_The_Meadow_(Start_A_People_Outtake,_2003)_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Start a Family",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/21_Start_a_Family_Texas.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Start A Fire",
+      "artist": "John Legend",
+      "has_synced": true,
+      "path": "select/22_Start_A_Fire_John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Start a New Life",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/23_Start_a_New_Life_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Let's Start A Fire",
+      "artist": "Real Life",
+      "has_synced": false,
+      "path": "select/24_Let's_Start_A_Fire_Real_Life.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Rebel Radio (René LaVice's Start a F***ing Riot Remix)",
+      "artist": "The Prodigy",
+      "has_synced": false,
+      "path": "select/25_Rebel_Radio_(René_LaVice's_Start_a_F_ing_Riot_Remix)_The_Prodigy.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Rebel Radio (René LaVice's Start A Fucking Riot Remix)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/26_Rebel_Radio_(René_LaVice's_Start_A_Fucking_Riot_Remix)_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Start a Riot",
+      "artist": "Duckwrth feat. Shaboozey",
+      "has_synced": true,
+      "path": "select/27_Start_a_Riot_Duckwrth_feat._Shaboozey.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Start a Riot",
+      "artist": "Duckwrth & Shaboozey",
+      "has_synced": true,
+      "path": "select/28_Start_a_Riot_Duckwrth_&_Shaboozey.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Rebel Radio (René LaVice’s Start a Fucking Riot remix)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/29_Rebel_Radio_(René_LaVice’s_Start_a_Fucking_Riot_remix)_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Start a Party",
+      "artist": "Rae Sremmurd",
+      "has_synced": true,
+      "path": "select/30_Start_a_Party_Rae_Sremmurd.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Start A Party",
+      "artist": "Rae Sremmurd",
+      "has_synced": true,
+      "path": "select/31_Start_A_Party_Rae_Sremmurd.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Let's Start a Band",
+      "artist": "Amy MacDonald",
+      "has_synced": true,
+      "path": "select/32_Let's_Start_a_Band_Amy_MacDonald.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Let's Start a Riot",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/33_Let's_Start_a_Riot_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Don't Start a Band",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/34_Don't_Start_a_Band_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Start A War",
+      "artist": "Static-X",
+      "has_synced": false,
+      "path": "select/pl_01_Start_A_War_Static-X.txt"
+    }
+  ]
+}
